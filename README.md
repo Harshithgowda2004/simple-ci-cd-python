@@ -1,3 +1,5 @@
+![CI Status](https://github.com/Harshithgowda2004/simple-ci-cd-python/actions/workflows/ci.yml/badge.svg)
+
 # CI/CD Pipeline using GitHub Actions (Python)
 
 ## 📌 Project Overview
